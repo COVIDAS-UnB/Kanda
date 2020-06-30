@@ -1,12 +1,7 @@
-Título do Projeto Kanda
-NOME DO PROJETO: Projeto Kanda	Período de Execução
+Problema: 
+Déficit no acompanhamento da jornada individual de aprendizagem em contexto de pandemia e ensino remoto.
 
-NOME DA EQUIPE: Kanda	Data de início:
-27/06/2020	Data de término:
-30/06/2020
-Valor Total:
-R$ R$ 0,0
-Objetivo:
+Solução:
 Melhorar a jornada individual de aprendizagem dos estudantes da UnB durante o ensino remoto e semi remoto.
 Caracterização do público-alvo:
 Os estudantes da UnB poderão ser beneficiados com os primeiros estágios da proposta na medida em que eles envolvem o ambiente de aprendizado remoto que será utilizado por toda a comunidade acadêmica. O estudante que não se sentir suficientemente atendido, sendo ele calouro ou não, poderá contar com o auxílio que sai do rigor das aulas e torna possível uma versatilidade da aprendizagem, contando com tutores capacitados para tal função, cujo papel será atender alunos que requisitarem suas tutorias. Ademais, os próprios tutores também poderão ser tutorados em outras disciplinas. Não haverá hierarquia de conhecimento e sim uma troca de saberes pelo ambiente virtual.
@@ -35,6 +30,7 @@ A palavra tutor vem do latim tueiri que significa “proteger, ter cuidado com�
 Pensada por permitir uma jornada de aprendizado individual e colaborativa, a tutoria é uma estratégia para a qualidade, colocando o estudante como centro da ação educacional. Assim, inicialmente, cada departamento da UnB deverá apresentar o plano de tutoria para seus estudantes e mapear dentre eles quem necessita da mesma: calouros, alunos que já apresentaram dificuldade de aprendizagem em disciplinas, estudantes que querem maior contato interpessoal, dentre outros.
 Os departamentos devem também mapear alunos que têm interesse em ser tutores-construtores e que possuam as necessárias, por exemplo: bom rendimento acadêmico, facilidade de comunicação, dinamismo, liderança e iniciativa, saber ouvir, sendo empático e mantendo atitude de cooperação, etc. Tais características são citadas por Matias Gonzales de souza, mestre em Tecnologia da Informação e Comunicação em EaD no artigo “A Sedução Pedagógica na Tutoria em Educação a Distância”. O levantamento desses alunos que serão tutores pode ser feito por meio de formulário e carta de intenção, além de criação de editais em cada departamento para recompensar esses alunos por meio de créditos, e se possíveis bolsas.
 O Programa de Tutoria se dará com a designação de tutores para os que desejam ser tutorados. Pode-se usar o modelo já vigente em alguns departamentos, de 12 horas semanais dedicadas à tutoria, avaliações quinzenais feitas por ambas as partes e formação básica prévia de atuação dos tutores. É importante lembrar que o acompanhamento pode se dar em âmbito acadêmico, mas o foco deve ser no acolhimento. O artigo “A Relação entre Tutor e Aluno: Acolhimento e Dádiva no Ensino a Distância” traz como referência o sociólogo Marcel Mauss, que no livro O Ensaio sobre a dádiva, explana sobre a Teoria da Dádiva. Essa diz respeito ao alicerce da sociabilidade, portanto, incorporando nessa possibilidade, o ato de educar, transmitir conhecimento e valores, a ser empregada nessa jornada de aprendizagem conjunta.
+
 
 
 2.	- CRONOGRAMA DE EXECUÇÃO
